@@ -20,6 +20,7 @@
 <hr>
 <br>
 ### Github stats
+<br>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=victormonteiro2&show_icons=true&theme=vue"/>
 <hr>
 <br>
