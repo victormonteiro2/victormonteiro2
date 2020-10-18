@@ -1,6 +1,6 @@
 ## Hello World!
 <p align="center">
-<a href="https://www.linkedin.com/in/victor-monteiro2/" target="_blank"> <img src="https://devicon.dev/devicon.git/icons/linkedin/linkedin-original-wordmark.svg" alt="linkedIn icon" width="50" heigth="50"/> </a>
+<a href="https://www.linkedin.com/in/victor-monteiro2/" target="_blank"> <img src="https://devicon.dev/devicon.git/icons/linkedin/linkedin-original-wordmark.svg" alt="linkedIn icon" width="50" heigth="50"/> </a>&nbsp; &nbsp;
   <a href="https://www.instagram.com/victormonteiro.1993/"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/social_media_svgs/instagram-round.svg" width="35px" alt="Instagram"></a>
 </p>
 ## Languages & Frameworks
