@@ -16,10 +16,10 @@
    <a href="https://expressjs.com/" target="_blank"> <img src="https://devicon.dev/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="50" height="50"/> </a>
   <a href="https://trello.com/" target="_blank"> <img src="https://devicon.dev/devicon.git/icons/trello/trello-plain-wordmark.svg" alt="trello" width="50" height="50"/> </a>
     <a href="https://trello.com/" target="_blank"> <img src="https://devicon.dev/devicon.git/icons/visualstudio/visualstudio-plain-wordmark.svg" alt="visual Studio" width="50" height="50"/> </a>
-  
-
 </p>
 <hr>
 <br>
 ### Github stats
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=victormonteiro2&show_icons=true&theme=vue"/>
+<hr>
+<br>
