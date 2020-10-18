@@ -1,7 +1,7 @@
-### Hello World!
+# Hello World!
 <a href="https://www.linkedin.com/in/victor-monteiro2/" target="_blank"> <img src="https://devicon.dev/devicon.git/icons/linkedin/linkedin-original-wordmark.svg" alt="linkedIn icon" width="50" heigth="50"/> </a>
 
-### Languages & Frameworks
+## Languages & Frameworks
 <br>
 <p align="left"> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a>
@@ -15,12 +15,11 @@
    <a href="handlebarsjs.com" target="_blank"> <img src="https://devicon.dev/devicon.git/icons/handlebars/handlebars-original-wordmark.svg" alt="hbs" width="50" height="50"/> </a> 
    <a href="https://expressjs.com/" target="_blank"> <img src="https://devicon.dev/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="50" height="50"/> </a>
   <a href="https://trello.com/" target="_blank"> <img src="https://devicon.dev/devicon.git/icons/trello/trello-plain-wordmark.svg" alt="trello" width="50" height="50"/> </a>
-    <a href="https://trello.com/" target="_blank"> <img src="https://devicon.dev/devicon.git/icons/visualstudio/visualstudio-plain-wordmark.svg" alt="visual Studio" width="50" height="50"/> </a>
-</p>
+    <a href="https://trello.com/" target="_blank"> <img src="https://devicon.dev/devicon.git/icons/visualstudio/visualstudio-plain-wordmark.svg" alt="visual Studio" width="50" height="50"/> </a></p>
 <hr>
 <br>
+
 ### Github stats
-<br>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=victormonteiro2&show_icons=true&theme=vue"/>
 <hr>
 <br>
