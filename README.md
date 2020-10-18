@@ -14,6 +14,9 @@
    <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a> 
    <a href="handlebarsjs.com" target="_blank"> <img src="https://devicon.dev/devicon.git/icons/handlebars/handlebars-original-wordmark.svg" alt="hbs" width="50" height="50"/> </a> 
    <a href="https://expressjs.com/" target="_blank"> <img src="https://devicon.dev/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="50" height="50"/> </a>
+  <a href="https://trello.com/" target="_blank"> <img src="https://devicon.dev/devicon.git/icons/trello/trello-plain-wordmark.svg" alt="trello" width="50" height="50"/> </a>
+    <a href="https://trello.com/" target="_blank"> <img src="https://devicon.dev/devicon.git/icons/visualstudio/visualstudio-plain-wordmark.svg" alt="visual Studio" width="50" height="50"/> </a>
+  
 
 </p>
 <hr>
