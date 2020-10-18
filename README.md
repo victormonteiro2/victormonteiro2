@@ -22,4 +22,4 @@
 <hr>
 <br>
 ### Github stats
-![Victor's Github Stats]( <img align="center" src="https://github-readme-stats.vercel.app/api?username=victormonteiro2&show_icons=true&theme=vue"/>
+![Victor's Github Stats]( <img align="center" src="https://github-readme-stats.vercel.app/api?username=victormonteiro2&show_icons=true&theme=vue"/>)
