@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/1C8bHHJturSx2/giphy.gif" width="200px">
   <br><br>
 <a href="https://www.linkedin.com/in/victor-monteiro2/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedIn icon" width="50" heigth="50"/> </a>&nbsp; &nbsp;
-  <a href="https://www.instagram.com/victormonteiro.1993/"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/social_media_svgs/instagram-round.svg" width="35px" alt="Instagram"></a>
+  <a href="https://www.instagram.com/victormonteiro.1993/"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/social_media_svgs/instagram-round.svg" width="50px" alt="Instagram"></a>
 </p>
 
 ## Languages & Frameworks
