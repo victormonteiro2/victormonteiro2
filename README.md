@@ -21,7 +21,7 @@
    <a href="handlebarsjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/handlebars/handlebars-original-wordmark.svg" alt="hbs" width="50" height="50"/> </a> &nbsp; &nbsp;
    <a href="https://expressjs.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="50" height="50"/> </a>&nbsp; &nbsp;
   <a href="https://trello.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain-wordmark.svg" alt="trello" width="50" height="50"/> </a>&nbsp; &nbsp;
-    <a href="https://trello.com/" target="_blank"> <img src="https://devicon.dev/devicon.git/icons/visualstudio/visualstudio-plain-wordmark.svg" alt="visual Studio" width="50" height="50"/> </a></p>
+    <a href="https://visualstudio.microsoft.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain-wordmark.svg" alt="visual Studio" width="50" height="50"/> </a></p>
 <hr>
 <br>
 
